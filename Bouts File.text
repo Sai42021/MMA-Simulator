@@ -1,0 +1,27 @@
+Fighter1: Sai
+Fighter2: McGregor
+Weight class: Bantam
+Announcer: Bruce_Buffer
+Start time: 13:00
+Number of rounds: 3
+Title: No_Contest
+
+
+Fighter1: Sai
+Fighter2: Jones
+Weight class: Heavy
+Announcer: Bruce_Buffer
+Start time: 15:00
+Number of rounds: 5
+Title: UFC_Championship
+
+
+Fighter1: Jones
+Fighter2: Mcgregor
+Weight class: Heavy
+Announcer: Joe_Rogan
+Start time: 17:00
+Number of rounds: 5
+Title: Utlimate_Baddass
+
+
